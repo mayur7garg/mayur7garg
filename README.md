@@ -12,6 +12,7 @@
 - 📫 Reach me at my LinkedIn Profile: [Mayur's LinkedIn Profile](https://www.linkedin.com/in/mayur-garg-6281b4138/)
 
 #### Data Science projects
+- [Plant Leaf Disease Detection](https://github.com/mayur7garg/PlantLeafDiseaseDetection)
 - [Pet Image Classification](https://github.com/mayur7garg/PetImageClassification)
 - [Disaster Tweet Classification](http://disastertweet.herokuapp.com/)
 
@@ -19,5 +20,4 @@
 - [Feistel Cipher on PyPI](https://pypi.org/project/feistelcipher/)
 
 #### Currently working on
-- [Plant Leaf Disease Detection](https://github.com/mayur7garg/PlantLeafDiseaseDetection)
 - [Sudoku solver using Deep CNN](https://github.com/mayur7garg/SudokuAI)
