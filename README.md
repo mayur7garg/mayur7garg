@@ -5,7 +5,7 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mayur7garg&theme=algolia&count_private=true&langs_count=4)
 
 ### About Me
-- :office: Currently working as a Business Technology Analyst (Developer) at Deloitte USI
+- :office: Currently working as a Consultant (Developer) at Deloitte USI
 - :book: I’m currently learning Data science and Machine Learning using Python
 - 👯 I’m looking to collaborate on projects related to Machine learning or statistics in Python
 - 💬 Ask me about Python, ML, Deep Learning, MS SQL Server or .Net
@@ -20,4 +20,5 @@
 - [Feistel Cipher on PyPI](https://pypi.org/project/feistelcipher/)
 
 #### Currently working on
+- [Malaria Cell Image Classification](https://github.com/mayur7garg/MalariaCellImageClassification)
 - [Sudoku solver using Deep CNN](https://github.com/mayur7garg/SudokuAI)
