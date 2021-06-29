@@ -4,6 +4,8 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mayur7garg&theme=algolia&count_private=true&langs_count=4)
 
+![Profile Views](https://komarev.com/ghpvc/?username=mayur7garg)
+
 ### About Me
 - :office: Currently working as a Consultant (Developer) at Deloitte USI
 - :book: I’m currently learning Data science and Machine Learning using Python
