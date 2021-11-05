@@ -1,10 +1,11 @@
-## Hi there 👋
-
-![Mayur's GitHub statistics](https://github-readme-stats.vercel.app/api?username=mayur7garg&theme=algolia&count_private=true&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mayur7garg&theme=algolia&count_private=true&langs_count=4)
-
-![Profile Views](https://komarev.com/ghpvc/?username=mayur7garg)
+<h2 align="center">Hi there👋, I am Mayur!</h2>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mayur7garg&style=flat-square"></img>
+</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mayur7garg&theme=algolia&count_private=true&show_icons=true"></img>&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayur7garg&theme=algolia&count_private=true&langs_count=4"></img>
+</div>
 
 ## About Me
 - :office: Currently working as a Consultant (Developer) at Deloitte USI
@@ -14,6 +15,7 @@
 - :busts_in_silhouette: Reach me at my LinkedIn Profile: **[Mayur's LinkedIn Profile](https://www.linkedin.com/in/mayur-garg-6281b4138/)**
 - :computer: Follow me on Kaggle: **[Mayur's Kaggle Profile](https://www.kaggle.com/mayur7garg)**
 
+## Projects
 ### Data Science projects
 - [Plant Leaf Disease Detection](https://github.com/mayur7garg/PlantLeafDiseaseDetection)
 - [Pet Image Classification](https://github.com/mayur7garg/PetImageClassification)
