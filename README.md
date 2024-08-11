@@ -13,11 +13,11 @@
 
 <h2 align="center">About Me</h2>
 
-- :office: Currently working as a Consultant (.Net Developer) at Deloitte USI
-- :mag: Aspiring Data Scientist in computer vision
-- :book: I’m also working on Data science and Machine Learning projects using Python
+- 👨‍💼: Data Scientist with projects in NLP and time series
+- :office: Currently working at United Airlines having previously worked at Deloitte USI and Samsung Research Institute
+- 🔍: I'm also a data scientist researcher and blogger
 - 👯 I’m looking to collaborate on projects related to ML or statistics
-- 💬 Ask me about Python, Machine Learning, Deep Learning, MS SQL Server or .Net
+- 💬 Ask me about Python, Machine Learning, Deep Learning and SQL
 
 <h2 align="center">Projects</h2>
 
