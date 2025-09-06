@@ -1,4 +1,5 @@
-<h2 align="center">Hi there👋, I am Mayur!</h2>
+<h2 align="center">Hi there👋, I am Mayur Garg </h2>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mayur7garg&style=flat-square"></img>
 </p>
@@ -25,13 +26,16 @@
 - [Plant Leaf Disease Detection](https://github.com/mayur7garg/PlantLeafDiseaseDetection)
 - [Pet Image Classification](https://github.com/mayur7garg/PetImageClassification)
 
-### Published projects
+### Open Source Projects
 - [Financial Modelling on GitHub Pages](https://mayur7garg.github.io/FinancialModelling/)
 - [MrAnnotate on PyPI](https://pypi.org/project/mrannotate/)
 - [Feistel Cipher on PyPI](https://pypi.org/project/feistelcipher/)
 
-### Currently working on
-- [FinancialModelling](https://github.com/mayur7garg/FinancialModelling)
+### Research Papers
+- [M. Garg, A. Nayak and R. R. D. Muni, "A Distribution Agnostic Rank-Based Measure for Proximity Search," in IEEE Access, vol. 13, pp. 12103-12112, 2025, doi: 10.1109/ACCESS.2024.3522669.](https://ieeexplore.ieee.org/document/10815932)
+- [Ashutosh Nayak, Mayur Garg, and Rajasekhara Reddy Duvvuru Muni. 2023. News Popularity Beyond the Click-Through-Rate for Personalized Recommendations. In Proceedings of the 46th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR '23). Association for Computing Machinery, New York, NY, USA, 1396–1405. https://doi.org/10.1145/3539618.3591741](https://dl.acm.org/doi/10.1145/3539618.3591741)
+
+[Click here](<Research Papers>) for PDFs of these publications.
 
 <h2 align="center">Tools and Technologies</h2>
 
