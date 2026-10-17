@@ -9,7 +9,7 @@
   <a href="https://scholar.google.com/citations?user=fajb7JgAAAAJ"><img src="https://img.shields.io/badge/Google_Scholar-005F73?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar" /></a>
   <a href="https://pypi.org/user/mayur7garg/"><img src="https://img.shields.io/badge/PyPI-0077B6?style=for-the-badge&logo=pypi&logoColor=white" alt="PyPI" /></a>
   <a href="./Mayur%20Garg%20-%20Resume.pdf"><img src="https://img.shields.io/badge/Resume-PDF-EE9B00?style=for-the-badge&logo=adobeacrobatreader&logoColor=041C2C" alt="Resume PDF" /></a>
-  <a href="https://komarev.com/ghpvc/?username=mayur7garg&color=0A9396&style=for-the-badge"><img src="https://komarev.com/ghpvc/?username=mayur7garg&color=0A9396&style=for-the-badge&label=VISITORS" alt="Profile Views" /></a>
+  <img src="https://api.visitorbadge.io/api/visitors?path=mayur7garg&label=VISITORS&labelColor=005F73&countColor=0A9396&style=for-the-badge" alt="Visitors" />
 </p>
 
 </div>
@@ -68,7 +68,7 @@
 </tr>
 </table>
 
-### 🪶 Peacock Tech Matrix
+### 🪶 Tech Matrix
 <p align="center">
   <img src="https://img.shields.io/badge/Agentic_AI-LangChain-005F73?style=flat-square&logo=chainlink&logoColor=white" alt="LangChain" />
   <img src="https://img.shields.io/badge/Deep_Learning-PyTorch-0A9396?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
